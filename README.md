@@ -1,4 +1,4 @@
-# tp-2021-2c
+# TP SO 2C2021
 
 Repositorio copia del trabajo realizado por mi equipo y yo durante la cursada de la asignatura **SISTEMAS OPERATIVOS** en la **UNIVERSIDAD TECNOLÓGICA NACIONAL FACULTAD REGIONAL BUENOS AIRES**, en el segundo cuatrimestre de 2021.
 
